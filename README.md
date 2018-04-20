@@ -44,12 +44,12 @@ Download the final apk [from here](https://github.com/Abhey/BlueChat/releases/ta
 
 <strong> Sample Chat :</strong> 
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/mkfeuhrer/JarvisBot/master/screenshots/news.png">
+  <img src = "https://raw.githubusercontent.com/Abhey/BlueChat/master/Screenshot_20180420-102208.png?token=AQ8RNe5ottkAtc5ysobxCVL5RIIqGSuGks5a4q4xwA%3D%3D">
 </p>
 
 <strong> File Transfer :</strong>
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/mkfeuhrer/JarvisBot/master/screenshots/lyrics.png">
+  <img src = "https://raw.githubusercontent.com/Abhey/BlueChat/master/Screenshot_20180420-101852.png?token=AQ8RNU1wIHPgCmi1Kg49wpq6Hm6LWxaRks5a4q5VwA%3D%3D">
 </p>
 
 ## Feedback
