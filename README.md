@@ -1,7 +1,7 @@
 <h1 align="center"> Blue Chat </h1> <br>
 <p align="center">
   <a href="https://github.com/mkfeuhrer/JarvisBot">
-    <img alt="Bluetooth Chat app" title="Blue Chat" src="https://raw.githubusercontent.com/Abhey/BlueChat/master/app/src/main/res/drawable/icon.png?token=AQ8RNbqYhjscZNqUMUFhNwRVKx1lKfaFks5a4qPbwA%3D%3D" width="550">
+    <img alt="Bluetooth Chat app" title="Blue Chat" src="https://raw.githubusercontent.com/Abhey/BlueChat/master/app/src/main/res/drawable/icon.png?token=AQ8RNbqYhjscZNqUMUFhNwRVKx1lKfaFks5a4qPbwA%3D%3D">
   </a>
 </p>
 <p align="center">
@@ -44,12 +44,12 @@ Download the final apk [from here](https://github.com/Abhey/BlueChat/releases/ta
 
 <strong> Sample Chat :</strong> 
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/Abhey/BlueChat/master/Screenshot_20180420-102208.png?token=AQ8RNe5ottkAtc5ysobxCVL5RIIqGSuGks5a4q4xwA%3D%3D">
+  <img src = "https://raw.githubusercontent.com/Abhey/BlueChat/master/Screenshot_20180420-102208.png?token=AQ8RNe5ottkAtc5ysobxCVL5RIIqGSuGks5a4q4xwA%3D%3D" height="35%" width="35%">
 </p>
 
 <strong> File Transfer :</strong>
 <p align="center">
-  <img src = "https://raw.githubusercontent.com/Abhey/BlueChat/master/Screenshot_20180420-101852.png?token=AQ8RNU1wIHPgCmi1Kg49wpq6Hm6LWxaRks5a4q5VwA%3D%3D">
+  <img src = "https://raw.githubusercontent.com/Abhey/BlueChat/master/Screenshot_20180420-101852.png?token=AQ8RNU1wIHPgCmi1Kg49wpq6Hm6LWxaRks5a4q5VwA%3D%3D" height="35%" width="35%">
 </p>
 
 ## Feedback
