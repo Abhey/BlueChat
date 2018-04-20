@@ -38,7 +38,7 @@ BlueChat have following capabilities -
 
 ## Running App
 
-
+Download the final apk [from here](https://github.com/Abhey/BlueChat/releases/tag/1.0) and install it to utilize the features of BlueChat.
 
 ## Screenshots
 
