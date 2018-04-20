@@ -1,0 +1,100 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:5:5-68
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:5:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:6:5-74
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:6:22-71
+uses-permission#android.permission.INTERNET
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:7:22-64
+application
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:9:5-25:19
+MERGED from [com.android.support:design:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:11:9-38
+	android:theme
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:14:9-40
+activity#info.devexchanges.bluetoothchatapp.MainActivity
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:15:9-49
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:15:19-47
+activity#info.devexchanges.bluetoothchatapp.Main2Activity
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:16:9-51
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:16:19-48
+activity#info.devexchanges.bluetoothchatapp.ChooseActivity
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:17:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.DEFAULT+android.intent.category.LAUNCHER
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:20:27-74
+category#android.intent.category.DEFAULT
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:21:27-73
+activity#info.devexchanges.bluetoothchatapp.FileExchangeActivity
+ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:24:9-67
+	android:name
+		ADDED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml:24:19-55
+uses-sdk
+INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:design:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml
+		INJECTED from /home/abhey/Downloads/Chatting-Shatting-master/app/src/main/AndroidManifest.xml

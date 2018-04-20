@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ChooseActivity">
+
+    <Button
+        android:layout_width="175dp"
+
+        android:id="@+id/chat"
+        android:layout_gravity="center"
+        android:layout_marginTop="150dp"
+        android:background="#40C4FF"
+        android:textColor="#FFF"
+        android:padding="10dp"
+        android:drawableStart="@drawable/ic_chat"
+        android:drawableLeft="@drawable/ic_chat"
+        android:text="    Chat    "
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_width="175dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#40C4FF"
+        android:textColor="#FFF"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:drawableStart="@drawable/ic_file_share"
+        android:drawableLeft="@drawable/ic_file_share"
+        android:text="File Exchange"
+
+        android:id="@+id/file"/>
+
+</LinearLayout>

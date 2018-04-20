@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_send.png",
+        "source": "/home/abhey/Downloads/Chatting-Shatting-master/app/src/main/res/drawable-mdpi/ic_send.png"
+    },
+    {
+        "merged": "/home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_chat.png",
+        "source": "/home/abhey/Downloads/Chatting-Shatting-master/app/src/main/res/drawable-mdpi/ic_chat.png"
+    },
+    {
+        "merged": "/home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_action_name.png",
+        "source": "/home/abhey/Downloads/Chatting-Shatting-master/app/src/main/res/drawable-mdpi/ic_action_name.png"
+    },
+    {
+        "merged": "/home/abhey/Downloads/Chatting-Shatting-master/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_file_share.png",
+        "source": "/home/abhey/Downloads/Chatting-Shatting-master/app/src/main/res/drawable-mdpi/ic_file_share.png"
+    }
+]

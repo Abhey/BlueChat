@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".FileExchangeActivity">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:textAlignment="center"
+        android:textColor="#000"
+        android:textSize="20sp"
+        android:id="@+id/showfile"/>
+
+
+    <Button
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:text="  Choose  "
+        android:layout_gravity="center"
+        android:layout_marginTop="180dp"
+        android:background="#40C4FF"
+        android:textColor="#FFF"
+        android:padding="10dp"
+        android:drawableRight="@drawable/ic_action_name"
+        android:drawableEnd="@drawable/ic_action_name"
+        android:id="@+id/choosefile"/>
+
+    <Button
+        android:layout_width="175dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        android:background="#40C4FF"
+        android:padding="10dp"
+        android:textColor="#FFF"
+        android:drawableRight="@drawable/ic_send"
+        android:drawableEnd="@drawable/ic_send"
+        android:text="   Send  "
+        android:id="@+id/sendfile"/>
+
+
+</LinearLayout>
